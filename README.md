@@ -2,7 +2,7 @@
 
 ### Hi there , I'm Diyar. 🧙‍♂️ 👨‍💻
 
-## React Developer || Software Dev || Test-Automation Engineer
+## Frontend Developer || Test-Automation Engineer
 
 <font color="brown" >
 I am trying to be an Senior Frontend developer , currently trying to learn Node.js
