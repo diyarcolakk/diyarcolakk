@@ -5,7 +5,7 @@
 ## Frontend Developer || Test-Automation Engineer
 
 <font color="brown" >
-I am trying to be an  Frontend developer , currently trying to learn Node.js
+Frontend developer , currently trying to learn Next.js
 </font>
 
 ### React out to me
