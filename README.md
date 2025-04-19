@@ -2,8 +2,7 @@
 
 ### Hi there , I'm Diyar. 🧙‍♂️ 👨‍💻
 
-## Frontend Developer || Test-Automation Engineer (Have experience)
-
+## Frontend Developer
 <font color="brown" >
 Frontend developer , currently trying to learn React Native
 </font>
